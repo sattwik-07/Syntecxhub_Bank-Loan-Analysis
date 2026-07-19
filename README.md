@@ -1,4 +1,4 @@
-# Bank Loan Analysis — Syntecxhub Internship (Project 1)
+# Bank Loan Analysis — Syntecxhub Internship
 
 An end-to-end analysis of a 38,576-loan lending book: cleaning the raw data, computing portfolio KPIs, classifying loans as Good vs. Bad, and surfacing the risk factors that drive charge-offs — all delivered through a self-contained, interactive dashboard.
 
