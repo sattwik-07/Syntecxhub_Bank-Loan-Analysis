@@ -1,6 +1,7 @@
 # Bank Loan Analysis — Syntecxhub Internship
 
 An end-to-end analysis of a 38,576-loan lending book: cleaning the raw data, computing portfolio KPIs, classifying loans as Good vs. Bad, and surfacing the risk factors that drive charge-offs — all delivered through a self-contained, interactive dashboard.
+Syntecxhub Data Analydid Internship - Task 4
 
 **Live deliverable:** `Syntecxhub_Bank_Loan_Analysis_Dashboard.html` — just open it in any browser. No server, no internet connection, and no dependencies required; every library and every data point is bundled directly into the file.
 
@@ -81,4 +82,12 @@ The dashboard also has a **Data Source** tab: drop in a different CSV with the s
 
 ---
 
-Built as part of the **Syntecxhub Internship Program** — Data Analysis track.
+## 👤 Author
+
+Sattwik Sahu
+
+---
+
+Submitted as part of the **Syntecxhub Internship Program** — Data Analysis Track.
+
+**Connect:** [Syntecxhub](https://www.syntecxhub.com) | `@Syntecxhub`
